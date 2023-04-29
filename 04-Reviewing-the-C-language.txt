@@ -1,0 +1,95 @@
+
+Reviewing The C Language
+-----------------------------------------------------------------------------------------------------------------------
+
+The C Language
+
+	- Computer programming language
+	
+	- Parts of speech: structure, syntax, rules
+	
+	- Can get really cryptic
+
+
+Parts of the C Language
+
+	- Data types
+	
+	- Operations
+	
+	- Keywords
+	
+	- Functions
+	
+	- Structure
+
+
+Data Types
+
+	- Variables and constants
+	
+	- Basic types: char, int, float, double
+	
+	- Qualifiers: short, long, signed, unsigned, const
+
+
+Operators
+
+	- Mathematical: +, -, /, *, %
+	
+	- Assignment: =, and so on
+	
+	- Relational: >, >=, <, <=, ==, !=
+	
+	- Conditional: ?:
+	
+	- Logical: &&, ||
+	
+	- Bitwise: &, |, ^, <<, >>, ~
+	
+	- Unary: &, *, ++, --, sizeof
+
+
+Keywords
+
+	- There are 44 (See a table)
+
+
+Functions
+
+	- True workhorses of the C language
+	
+	- Held in C Libraries
+	
+	- Defined and supported by header files
+	
+	- Thousands and thousands of functions
+
+
+Structure and Syntax I
+
+	- Preprocessor directives, header files, and macros
+	
+	- External objects, variables, and declarations
+	
+	- The main() function
+	
+	- Other functions
+
+
+Structure and Syntax II
+
+	- Statement ending in a semicolon ;
+	
+	- Statement execution is top-down
+	
+	- Blocks of statements grouped between braces { and }
+	
+	- Constructions enclosed in parentheses ( and )
+	
+	- Whitespace: spaces, tabs, new lines (Enter key press)
+
+
+
+
+

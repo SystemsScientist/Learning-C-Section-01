@@ -1,0 +1,46 @@
+
+Chapter Quiz
+-----------------------------------------------------------------------------------------------------------------------
+
+Question 1 of 2
+
+What is the true workhorse of the C language? 
+
+	A. the compiler
+	
+	B. data types
+	
+	C. functions
+	
+	D. keywords
+
+Answer: C
+Explanation: Functions perform various activities that let your program do something
+
+
+Question 2 of 2
+
+Why is the linking step necessary?
+
+	A. Object code files must be linked with libraries to make a program
+	
+	B. It's not necessary. In modern compilers the compiling and linking
+	   step is combined
+	
+	C. It's necessary only for larger programs, where multiple files must
+	   be linked before they're compiled
+	
+	D. Source code is plain text, and it must be translated into a 
+	   language the hardware understands
+
+Answer: A
+Explanation: The compiler creates object code, which is then linked to create
+  	     a program
+
+
+
+
+
+
+
+

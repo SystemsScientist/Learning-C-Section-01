@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659401532 source:/home/snarkydata/linkedin-courses/c-courses/Learning-C/01-Hello-World/hello_world/main.c
+	<stdio.h>
+	<stdlib.h>
+

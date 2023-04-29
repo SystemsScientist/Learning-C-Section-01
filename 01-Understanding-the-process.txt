@@ -1,0 +1,67 @@
+
+Understanding the Process
+-----------------------------------------------------------------------------------------------------------------------
+
+The Art of Writing Software
+
+	- Create software that controls hardware
+	
+	- Use a programming language such as C
+	
+	- Other languages include C++, Java, Python, PHP, etc.
+
+
+Programming Process
+
+	- Source code --> Compiler --> Object code --> Linker --> Create program --> Test program
+
+
+Source Code I
+
+	- Plain text file
+	
+	- Can use any text editor to create this file
+
+
+The contents are written in the programming language using the language's rules, syntax, and
+formatting
+
+
+Source Code II
+
+	- Ends with the .c filename extension
+	
+	- Contains programming instructions
+
+
+Object code
+
+	- Compiled from the source code file
+	
+	- The C language compiler -> cc - c compiler
+	
+	- Contains tokenized instructions
+	
+	- Ends with the .o filename extension
+
+
+The Linker
+
+	- Often done as part of compiling
+	
+	- Combines object code and C library file
+	
+	- Creates a binary, executable file
+
+
+Programming Cycle
+
+	- Edit --> Link and Compile --> Test
+
+
+
+
+
+
+
+
